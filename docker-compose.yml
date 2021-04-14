@@ -1,0 +1,3 @@
+services:
+  doodlez_bot:
+    build: .
